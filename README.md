@@ -1,3 +1,2 @@
 # WebSocket mini projects
- - 01.js => ./js
- 
+ - 01.javaScript => ./js
