@@ -2,4 +2,4 @@
 1. npm init
 2. npm install express@4
 3. index.js 
-  -write express
+  -write express.js
